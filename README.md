@@ -66,7 +66,7 @@ LOG_INIT("./log", "skiplist_bench", INFO);   // 或 "map_bench"
 完成日志系统初始化，并在运行时异步将日志写入 `./log` 目录。
 
 Ring-Log 为第三方开源项目，本仓库仅作学习和性能测试使用。  
-如需了解 Ring-Log 的更多细节或在生产环境中使用，请参考其上游开源仓库（请在此处填入官方 GitHub 链接）。
+如需了解 Ring-Log 的更多细节或在生产环境中使用，请参考其上游开源仓库(https://github.com/LeechanX/Ring-Log)。
 
 ### 许可证
 
